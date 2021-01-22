@@ -1,2 +1,4 @@
-# ovh
-OVHcloud API JavaScript Client
+# OVH: JavaScript API Client
+
+A JavaScript client wrapping the OVH API.
+
