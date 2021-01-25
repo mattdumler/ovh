@@ -1,4 +1,4 @@
-import { sha1 } from "./deps.js";
+import { sha1 } from "../deps.js";
 
 /** Construct an OVH API HTTP client.
  *
